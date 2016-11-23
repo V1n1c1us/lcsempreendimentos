@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600');
+html, body { margin: 0; padding: 0; background:#ffffff;}
+
+body{ font-family: 'Raleway', sans-serif; font-weight: 500;}
+.form-control {
+    position: relative;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.login-form {
+    margin-top: 60px;
+    background: #f7f7f7; transform: none; transition: all 0s ease 0s; box-shadow: rgba(0,0,0,0.298039) 0px 2px 2px 0px;"
+}
+
+form[role=login] {
+    color: #5d5d5d;
+    background: white;
+    padding: 26px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+form[role=login] img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+form[role=login] input,
+form[role=login] button {
+    font-size: 18px;
+    margin: 16px 0;
+}
+form[role=login] > div {
+    text-align: center;
+}
+
+.form-links {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 50px;
+}
+.form-links a {
+    color: #333333;
+    font-family: 'Raleway', sans-serif;
+}
+
+.media-object{
+    width: 65px;
+    height: 65px;
+}
+.media-object-banner{
+    width: 500px;
+    height: 150px;   
+}
+.banner-lista li{
+    list-style: none;
+    text-decoration: none;
+    margin-top: 20px;
+    padding: 0 0 20px 100px;
+
+}
+
